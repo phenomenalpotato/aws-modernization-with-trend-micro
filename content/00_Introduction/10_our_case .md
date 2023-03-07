@@ -17,9 +17,9 @@ For each area, the following part of the project was divided:
 
 - <b>DevOps</b>: Enable quality delivery and continuous testing of the application and its new future features through CI/CD tools.
 
-- <b>Arquiteto de cloud</b>: Define the new application architecture and which services will be needed in one or more clouds.
+- <b>Cloud Architect</b>: Define the new application architecture and which services will be needed in one or more clouds.
 
-- <b>Time de Segurança</b>: Responsible in this project for providing security consistent with the new distributed architecture and that does not delay or hinder the speed of development. 
+- <b>Security Team</b>: Responsible in this project for providing security consistent with the new distributed architecture and that does not delay or hinder the speed of development. 
 
 - <b>Desenvolvento</b>: Refactor part of the application so that it sends more metrics to the Observability platform that inform and are consistent with the business and needs of the company and with the new architecture.
 
